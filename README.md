@@ -39,8 +39,6 @@ Dự án là một trang web bán hàng laptop trực tuyến, giúp người d�
 #### Trang thông tin tài khoản
 ![Trang thông tin tài khoản](<img width="1430" height="817" alt="image" src="https://github.com/user-attachments/assets/ab98621b-7d98-4692-9b3d-6ca350043f4a" />
 
-#### Trang quản lý đơn hàng
-![Trang quản lý đơn hàng](https://res.cloudinary.com/dbekkzxtt/image/upload/v1677837967/Screenshot_from_2023-03-03_17-03-13_s0ly0q.png)
 #### Trang chi tiết đơn hàng
 ![Trang chi tiết đơn hàng](https://res.cloudinary.com/dbekkzxtt/image/upload/v1677837967/Screenshot_from_2023-03-03_17-03-18_zp1yfs.png)
 #### Trang quản lý thông tin giao nhận hàng
