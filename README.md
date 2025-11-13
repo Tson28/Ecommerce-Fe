@@ -19,7 +19,7 @@ Dự án là một trang web bán hàng laptop trực tuyến, giúp người d�
 - Database: MonogoDB.
 
 ### Cách cài đặt:
-- Clone repository này bên phía FrontEnd và [Link github bên server](https://github.com/nvh2312/TLCN)
+- Clone repository này bên phía FrontEnd và [Link github bên server]((https://github.com/Tson28/Ecommerce-BE.git))
 - Sau khi clone 2 repository này về:
   - cd vào repository bên phía FrontEnd gõ lệnh `npm i` để cài Node_Module sau khi cài sau gõ lệnh `npm run dev` để chạy.
   - cd vào repository bên phía BackEnd gõ lệnh `npm i` để cài Node_Module sau khi cài sau gõ lệnh `npm start` để chạy.
