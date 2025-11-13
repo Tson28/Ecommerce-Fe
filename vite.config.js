@@ -1,3 +1,4 @@
+//author Nguyen Thai Son
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
